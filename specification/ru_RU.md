@@ -41,9 +41,7 @@ File {
 Если же данный байт отсутствует, то используется следующий формат:
 ```py
 File {
-    Byte       type      (1);
-    Path[]     paths     (N);
-    Document[] documents (N);
+    Document document (N);
 }
 ```
 
