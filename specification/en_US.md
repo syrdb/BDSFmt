@@ -1,4 +1,4 @@
-# Specification `BDSF`[^1] 0.3
+# Specification of `BDSF`[^1] 0.4
 ## `1.` Targets
 1. Files in BDSF should take up as little space as possible.
    > Any file in this format should take up the least amount of disk space. Preferably, it should take up the least amount of disk space of `BSON` format.
@@ -144,5 +144,5 @@ Type               | Length (bytes : bits) | Range                     | Bytecod
 - N` - `Int16`, `Int32`, `Int64`, `Int128`, `UInt8`, `UInt16`, `UInt32`, `UInt64` and `UInt128`
 - `F` - `Float`, `Double` and `Decimal128`
 
-[^1]: BDSF *(**Binary Data Storage Format)* - Binary Data Storage Format.
+[^1]: BDSF - Binary Data Storage Format.
 [^2]: `N` = Any number; `B` = Number of bytes.
