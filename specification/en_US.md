@@ -141,7 +141,7 @@ Type               | Length (bytes : bits) | Range                     | Bytecod
 - `V` - Value itself, N bytes
 
 **Basic types (`mtype`):**
-- N` - `Int16`, `Int32`, `Int64`, `Int128`, `UInt8`, `UInt16`, `UInt32`, `UInt64` and `UInt128`
+- `N` - `Int16`, `Int32`, `Int64`, `Int128`, `UInt8`, `UInt16`, `UInt32`, `UInt64` and `UInt128`
 - `F` - `Float`, `Double` and `Decimal128`
 
 [^1]: BDSF - Binary Data Storage Format.
